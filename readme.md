@@ -1,3 +1,3 @@
 # centos-practices
 
-	수정했음
+#### 1. 설차하기 
