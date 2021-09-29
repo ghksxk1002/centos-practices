@@ -1,6 +1,6 @@
 # centos-practices
 
-####1. Java JDK 다운로드
+###1. Java JDK 다운로드
    : 다운로드 사이트에 가서 
    : jdk-8u291-linux-x64.tar.gz 다운로드 한다.(Java8)
    wget jdk-8u291-linux-x64.tar.gz
